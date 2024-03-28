@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "喻好好",
+    "home_page_url": "https://wiki.eryajf.net",
+    "feed_url": "https://wiki.eryajf.net/feed.json",
+    "description": "💻学习📝记录🔗分享\n学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。",
+    "items": [
+        {
+            "id": "https://wiki.eryajf.net/pages/b2f34c/",
+            "url": "https://wiki.eryajf.net/pages/b2f34c/",
+            "title": "博客导引",
+            "summary": "博客经过了五年的积累之后，已经沉淀了许多的内容，在此有必要做一个导引，帮助你更好地认识到，你正在浏览的，是一个构思多么用心，设计多么优秀，内容多么丰富，情操多么高尚，境界多么高雅的博客。",
+            "image": "https://raw.githubusercontent.com/eryajf/eryajf/master/assets/github-contribution-grid-snake.svg",
+            "date_modified": "2023-02-13T10:56:00.000Z"
+        }
+    ]
+}
