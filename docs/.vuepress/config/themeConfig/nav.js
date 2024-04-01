@@ -5,6 +5,7 @@ module.exports = [
     items: [
       { text: 'k8s', link: '/k8s/'},
       { text: '存储', link: '/storage/'},
+      { text: 'CICD', link: '/cicd/'},
     ]
   },
   { text: '编程',link: '/code/',
