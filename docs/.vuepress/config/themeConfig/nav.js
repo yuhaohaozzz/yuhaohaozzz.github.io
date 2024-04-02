@@ -14,10 +14,10 @@ module.exports = [
       { text: 'golang', link: '/golang/'},
     ]
   },
-  { text: '生活',link: '/life/',
+  { text: '友链',
     items: [
-      { text: '随写编年', link: '/sxbn/'},
-      { text: '家人物语', link: '/jrwy/'},
+      { text: '二丫讲梵', link: 'https://wiki.eryajf.net/'},
+      { text: '鄢云峰 YYF', link: 'https://yanyunfeng.com/'},
     ]
   },
   { text: '关于', link: '/pages/ea589c/' },
@@ -37,7 +37,6 @@ module.exports = [
         text: '本站页面',
         items: [
           { text: '导航', link: '/nav/' },
-          { text: '打赏', link: '/reward/' },
         ]
       },
       {
