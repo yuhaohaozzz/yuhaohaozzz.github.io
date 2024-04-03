@@ -14,6 +14,10 @@ module.exports = [
       { text: 'golang', link: '/golang/'},
     ]
   },
+  { text: '生活',link: '/life/',
+    items: [
+    ]
+  },
   { text: '友链',
     items: [
       { text: '喻好好', link: 'https://www.cnblogs.com/yuhaohao'},

@@ -11,15 +11,15 @@ features: # 可选的
   - title: 运维
     details: k8s, 分布式存储, 云计算等
     link: /ops/ # 可选
-    # imgUrl: /img/ops.png # 可选
+    imgUrl: /img/ops.png # 可选
   - title: 编程
     details: 工具开发,Golang&Python&Shell等
     link: /code/
-    # imgUrl: /img/life.png
+    imgUrl: /img/more.png
   - title: 生活
     details: 景色无端五十弦,一弦一柱思华年
     link: /life/
-    # imgUrl: /img/other.png
+    imgUrl: /img/other.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
