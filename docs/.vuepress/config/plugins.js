@@ -6,7 +6,7 @@ const feed_options = {
 
 const autometa_options = {
   site: {
-    name: 'Eryajf',
+    name: '喻好好',
   },
   canonical_base: 'https://wiki.eryajf.net',
 };
@@ -158,15 +158,19 @@ module.exports = [
   // ],
 
   [
-    'vuepress-plugin-vdoing-comment', // 评论
+    'vuepress-plugin-comment', // 评论
       {
-        choosen: 'artalk',
+        choosen: 'valine',
         options: {
-            server: 'https://comment.eryajf.net',
-            site: '二丫讲梵',
-            disableEmotion: false,
-            disablePreview: false,
-            disablePicture: true
+            el: '#valine-vuepress-comment',
+            appId: 'jdsqfATV6bGAvWMs3Pb4eA8D-gzGzoHsz',
+            appKey: 'h1mVKaQMTHwCzHskzCoOl9FC',
+            // 评论组件的placeholder
+            placeholder: '发表你的感想...(添加网址可直接点击头像文字进入该地址哦)',
+            // 分辨当前页面请求的评论内容
+            path: '<%- frontmatter.to.path %>',
+            // 评论用户头像
+            avatar: 'robohash'
         }
       }
   ],
