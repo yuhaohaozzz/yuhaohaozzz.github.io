@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.eryajf.net</id>
     <title>喻好好</title>
-    <updated>2024-04-02T12:07:50.252Z</updated>
+    <updated>2024-04-03T06:32:58.235Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://wiki.eryajf.net"/>
     <link rel="self" href="https://wiki.eryajf.net/feed.atom"/>
@@ -14,6 +14,6 @@
         <link href="https://wiki.eryajf.net/pages/b2f34c/">
         </link>
         <updated>2023-02-13T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[博客经过了五年的积累之后，已经沉淀了许多的内容，在此有必要做一个导引，帮助你更好地认识到，你正在浏览的，是一个构思多么用心，设计多么优秀，内容多么丰富，情操多么高尚，境界多么高雅的博客。]]></summary>
+        <summary type="html"><![CDATA[在这博客之前，用过很多自建的如hexo,vitepress以及cnblogs喻好好博客。]]></summary>
     </entry>
 </feed>
