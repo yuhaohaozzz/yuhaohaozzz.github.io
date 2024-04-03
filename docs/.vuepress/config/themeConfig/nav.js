@@ -16,6 +16,7 @@ module.exports = [
   },
   { text: '友链',
     items: [
+      { text: '喻好好', link: 'https://www.cnblogs.com/yuhaohao'},
       { text: '二丫讲梵', link: 'https://wiki.eryajf.net/'},
       { text: '鄢云峰 YYF', link: 'https://yanyunfeng.com/'},
     ]
