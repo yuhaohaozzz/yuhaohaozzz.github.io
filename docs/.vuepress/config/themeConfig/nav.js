@@ -23,7 +23,6 @@ module.exports = [
   { text: '关于', link: '/pages/ea589c/' },
   {
     text: '页面',
-    link: '/nav/',
     items: [
       {
         text: '本站索引',
@@ -32,12 +31,6 @@ module.exports = [
           { text: '标签', link: '/tags/' },
           { text: '归档', link: '/archives/' },
         ],
-      },
-      {
-        text: '本站页面',
-        items: [
-          { text: '导航', link: '/nav/' },
-        ]
       },
       {
         text: '我的工具',
