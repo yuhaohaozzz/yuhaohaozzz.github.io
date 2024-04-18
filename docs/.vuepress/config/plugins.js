@@ -1,6 +1,6 @@
 // set your global feed options - override in page frontmatter `feed`
 const feed_options = {
-  canonical_base: 'https://wiki.eryajf.net',
+  canonical_base: 'https://yuhaohao.github.io',
   count: 5000,
 };
 
@@ -8,7 +8,7 @@ const autometa_options = {
   site: {
     name: '喻好好',
   },
-  canonical_base: 'https://wiki.eryajf.net',
+  canonical_base: 'https://yuhaohao.github.io',
 };
 
 // 插件配置
@@ -144,7 +144,7 @@ module.exports = [
   'vuepress-plugin-mermaidjs',
   [
     'sitemap', {
-      hostname: 'https://wiki.eryajf.net',
+      hostname: 'https://yuhaohaozzz.github.io',
       exclude: ["/404.html"],
     },
   ],

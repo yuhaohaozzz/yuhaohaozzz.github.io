@@ -26,9 +26,6 @@ features: # 可选的
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
 
-<!-- ::: v-pre
-<iframe height="400" style="width: 100%;" scrolling="no" title="轮播展示" src="https://wiki.eryajf.net/lunbo/lunbo.html"></iframe>
-::: -->
 
 
 <!-- ::: center
@@ -93,9 +90,8 @@ features: # 可选的
 
 ## :email: 联系
 
-- **WeChat or QQ**: <a href="tencent://message/?uin=894072666&Site=&Menu=yesUrl" class='qq'>1175463710</a>
-- **Email**: <a href="mailto:894072666@qq.com">894072666@qq.com</a>
-- **GitHub**: <https://github.com/eryajf>
+- **Email**: <a href="mailto:1103417149@qq.com">894072666@qq.com</a>
+- **GitHub**: <https://github.com/yuhaohao>
 
 </br>  -->
 
