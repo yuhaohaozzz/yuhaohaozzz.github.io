@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "喻好好",
-    "home_page_url": "https://wiki.eryajf.net",
-    "feed_url": "https://wiki.eryajf.net/feed.json",
+    "home_page_url": "https://yuhaohao.github.io",
+    "feed_url": "https://yuhaohao.github.io/feed.json",
     "description": "💻学习📝记录🔗分享\n学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。",
     "items": [
         {
-            "id": "https://wiki.eryajf.net/pages/b2f34c/",
-            "url": "https://wiki.eryajf.net/pages/b2f34c/",
+            "id": "https://yuhaohao.github.io/pages/b2f34c/",
+            "url": "https://yuhaohao.github.io/pages/b2f34c/",
             "title": "博客导引",
             "summary": "在这博客之前，用过很多自建的如hexo,vitepress以及cnblogs喻好好博客。",
             "date_modified": "2023-02-13T10:56:00.000Z"
