@@ -23,6 +23,7 @@ module.exports = [
       { text: '喻好好', link: 'https://www.cnblogs.com/yuhaohao'},
       { text: '二丫讲梵', link: 'https://wiki.eryajf.net/'},
       { text: '鄢云峰 YYF', link: 'https://yanyunfeng.com/'},
+      { text: 'Pursue', link: "https://doc.pursue.pub/"},
     ]
   },
   { text: '关于', link: '/pages/ea589c/' },
