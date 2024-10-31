@@ -133,12 +133,12 @@ module.exports = [
   ],
 
   // 百度统计
-  [
-    'vuepress-plugin-baidu-tongji',
-    {
-      hm: 'f8fd5c4e21ca384b4785396a87bcc468',
-    },
-  ],
+  // [
+  //   'vuepress-plugin-baidu-tongji',
+  //   {
+  //     hm: 'f8fd5c4e21ca384b4785396a87bcc468',
+  //   },
+  // ],
 
   // 提供mermaid图表支持
   'vuepress-plugin-mermaidjs',
