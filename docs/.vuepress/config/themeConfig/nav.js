@@ -6,6 +6,8 @@ module.exports = [
       { text: 'k8s', link: '/k8s/'},
       { text: '存储', link: '/storage/'},
       { text: 'CICD', link: '/cicd/'},
+      { text: '监控告警开发', link: '/监控告警开发/'},
+      { text: 'Linux运维', link: '/linux/'},
     ]
   },
   { text: '编程',link: '/code/',
